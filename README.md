@@ -3,8 +3,8 @@
 >Baha(巴哈姆特)：<https://www.gamer.com.tw/>
 
 ## First : Check out for the packages
-''' * requests '''
-''' * re ''' 
-''' * BeautifulSoup ''' 
-''' * pandas ''' 
-''' * numpy''' 
+` * requests ` 
+ˋ * re ˋ 
+* BeautifulSoup 
+* pandas 
+* numpy
