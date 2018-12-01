@@ -4,7 +4,7 @@
 
 ## First : Check out for the packages
 ` * requests ` 
-ˋ * re ˋ 
-* BeautifulSoup 
-* pandas 
-* numpy
+` * re ` 
+` * BeautifulSoup `
+` * pandas `
+` * numpy `
