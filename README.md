@@ -1,14 +1,11 @@
 # baha_pic_crawler
-Crawler for Baha 
+####his is a python function of crawler for Baha 
+>Baha(巴哈姆特)：<https://www.gamer.com.tw/>
 
-U need to install these package
+##First : Check out for the package
+* requests
+* re
+* BeautifulSoup
+* pandas 
+* numpy 
 
-import requests
-
-import re
-
-from bs4 import BeautifulSoup
-
-import pandas as pd
-
-import numpy as np
