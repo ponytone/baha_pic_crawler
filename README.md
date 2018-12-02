@@ -1,22 +1,36 @@
 # baha_pic_crawler
-#### This is a python function of crawler for Baha picture
+### This is a python function of crawler for Baha picture
 >Baha(巴哈姆特)：<https://www.gamer.com.tw/>
 
 You can get a table like this：
 
-| 樓層  | 推  | 噓 |
-| :----- |:---:| ---:|
-| 樓主  | 739 | 10 | 
-| 6 樓  | 242 |  9 | 
-| 16 樓 | 441 |  0 |
-| 23 樓 | 593 |  0 | 
+| 樓層  | 推  | 噓 | 差 |
+|-------|-----|-----|----|
+| 樓主  | 739 | 10 | 729 |
+| 6 樓  | 242 |  9 | 233 |
+| 16 樓 | 441 |  0 | 441 |
+| 23 樓 | 593 |  0 | 593 |
 
-| 樓層  | 推  | 噓 |
-| :------------ |:---------------:| -----:|
-| 樓主      | 739 | 10 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-| test | 測試        |    $3333 |
+* 推 = GP(Good Point) : means how many people click like for this floor
+* 噓 = BP(Bad  point) : means how many people click unlike for this floor
+
+You can also get the hyperlink of the picture : 
+>樓主
+>>https://truth.bahamut.com.tw/s01/201601/f24e834da66aa649fb2b236c7b2377d1.JPG
+
+>6 樓
+>>https://truth.bahamut.com.tw/s01/201402/0d5c2e423861fb9c9de1fec8a054c3a2.JPG
+
+>.
+>.
+>.
+
+>64 樓
+>>https://truth.bahamut.com.tw/s01/201601/0a869b76d7ac29416e57ca6af42e74de.JPG
+>>https://truth.bahamut.com.tw/s01/201601/d49409893c4edd8b6c7de6d3d927c9d2.JPG
+>>https://truth.bahamut.com.tw/s01/201601/3fabcf9445b2f044888c7f893225de8e.JPG
+>>https://truth.bahamut.com.tw/s01/201601/157ce525d9687cfb1548804f28e8894c.JPG
+
 
 ## First : Check out for the packages
 * requests 
