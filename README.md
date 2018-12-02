@@ -11,9 +11,9 @@ You can get a table like this：
 | 16 樓 | 441 |  0 | 441 |
 | 23 樓 | 593 |  0 | 593 |
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| 樓層  | 推  | 噓 |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+| 樓主      | 739 | 10 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 | test | 測試        |    $3333 |
