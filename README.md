@@ -1,7 +1,13 @@
 # baha_pic_crawler
 #### This is a python function of crawler for Baha picture
 >Baha(巴哈姆特)：<https://www.gamer.com.tw/>
-
+You can get a table like this：
+| 樓層  | 推  | 噓 | 差 |
+| :---  |:-- :|:--:| ---:|
+| 樓主  | 739 | 10 | 729 |
+| 6 樓  | 242 |  9 | 233 |
+| 16 樓 | 441 |  0 | 441 |
+| 23 樓 | 593 |  0 | 593 |
 ## First : Check out for the packages
 * requests 
 * re  
